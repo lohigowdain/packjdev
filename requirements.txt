@@ -2,5 +2,5 @@
 tldextract==3.1.2
 pyyaml==6.0
 requests==2.18.4
-asttokens==2.0.5
+asttokens==2.0.6
 dnspython==2.2.1

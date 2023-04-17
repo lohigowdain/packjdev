@@ -26,3 +26,4 @@ jobs:
         with:
           DEPENDENCY_FILES: pypi:requirements.txt
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PACKJ_AUTH_ID: ${{ secrets.PACKJ_AUTH_ID }}
